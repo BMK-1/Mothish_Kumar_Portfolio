@@ -1,0 +1,1 @@
+Passionate Python Full Stack Developer with expertise in Django, HTML, CSS, JavaScript, Bootstrap, and MySQL. Experienced in building web applications, automation tools, and AI-driven solutions. Strong problem-solving skills with a commitment to developing efficient, scalable, and user-focused software applications.
